@@ -1,0 +1,14 @@
+.profile {
+    display: flex;
+    margin-left: auto;
+  }
+  .tabBar {
+    margin-top: 50px;
+    padding: 40px;
+  }
+  
+  .tabIcon {
+    margin-right: 80px;
+    padding: 40px;
+    z-index: 1111;
+  }

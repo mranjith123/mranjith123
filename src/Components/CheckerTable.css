@@ -1,0 +1,25 @@
+.dashboard-title {
+    font-size: 26pt;
+    border: 2px solid black;
+    width: 800px;
+    margin-bottom: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .table-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    height: 100vh;
+    width: 700px;
+    margin-left: 500px;
+  }
+  table,
+  th,
+  tr,
+  td {
+    border: 2px solid black;
+    border-collapse: collapse;
+  }

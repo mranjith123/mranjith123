@@ -1,0 +1,7 @@
+.footer-bottom {
+    width: 100%;
+    position: fixed !important;
+    bottom: 0;
+    z-index: 100;
+    max-height: 10vh;
+  }
